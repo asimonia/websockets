@@ -1,4 +1,5 @@
-// http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/
+#!/usr/bin/env node
+
 "use strict";
 
 // Optional. You will see this name in eg. 'ps' or 'top' command
